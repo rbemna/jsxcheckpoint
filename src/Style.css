@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+
+.title{
+  text-align: center;
+}
+.red{
+  color: red;
+}
+
+.photo{
+  height: 350px;
+  width: 400px;
+}
